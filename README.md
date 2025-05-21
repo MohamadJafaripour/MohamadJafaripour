@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohamad Mahdi Jafaripour
+- 🎓 I'm EE student
+- 👀 I’m interested in micro controllers, PCB designing and Algorithm.
+- 🌱 I’m currently learning C++ and Algorithm for UC Programing.
